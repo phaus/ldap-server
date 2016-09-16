@@ -1,6 +1,10 @@
 {
   "name": "ldap-server",
   "version": "0.1.5",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/phaus/ldap-server.git"
+  },
   "dependencies": {
     "async": "^1.4.0",
     "bunyan": "^1.8.1",
