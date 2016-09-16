@@ -3,7 +3,7 @@
   "version": "0.1.5",
   "dependencies": {
     "async": "^1.4.0",
-    "bunyan": "^1.4.0",
+    "bunyan": "^1.8.1",
     "commander": "^2.8.1",
     "crypt3": "^0.1.8",
     "glob": "^5.0.14",
